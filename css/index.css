@@ -1,0 +1,80 @@
+html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 776px;
+	min-height: 305px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	padding-bottom: 195px;
+	margin: 56px auto 69px;
+	background: #FFFFFF url("../image/background_dark.jpg") repeat left top;
+}
+
+#n1
+{
+	height: 0px;
+	position: relative;
+	width: 0px;
+	margin-top: 62px;
+}
+
+#n2
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -324px;
+	margin-top: 128px;
+	left: 186px;
+}
+
+#n3
+{
+	z-index: 3;
+	width: 660px;
+	min-height: 36px;
+	position: relative;
+}
+
+#n5
+{
+	font-size: 48px;
+	color: #FFFFFF;
+}
+
+#n7
+{
+	width: 0.01px;
+	margin-left: 78px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#n8
+{
+	z-index: 9;
+	width: 110px;
+	position: relative;
+	margin-right: -110px;
+}
+
+#n8_img, #n10_img
+{
+	vertical-align: top;
+}
+
+#n10
+{
+	z-index: 7;
+	width: 91px;
+	position: relative;
+	margin-right: -91px;
+	margin-top: 10px;
+	left: 138px;
+}
+

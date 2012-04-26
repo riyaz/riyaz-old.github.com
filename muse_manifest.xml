@@ -1,0 +1,21 @@
+<manifest alg="1">
+  <folder name="image">
+    <file name="favicon.ico" crc="4051756298"/>
+    <file name="background_dark.jpg" crc="79531714"/>
+    <file name="fb.png" crc="371764695"/>
+    <file name="g-.png" crc="4202714793"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.0">
+      <file name="jquery-1.6.4.min.js" crc="380096529"/>
+      <file name="sprydomutils.js" crc="119034094"/>
+      <file name="museutils.js" crc="3962956324"/>
+      <file name="pie.js" crc="942815"/>
+    </folder>
+  </folder>
+  <folder name="css">
+    <file name="index.css" crc="343043307"/>
+    <file name="site_global.css" crc="4084150667"/>
+  </folder>
+  <file name="index.html" crc="143572782"/>
+</manifest>
